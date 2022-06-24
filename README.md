@@ -24,3 +24,7 @@ https://marketplace.yoyogames.com/assets/10767/easy-leaderboard-by-lootlocker
 
 Tutorial  
 https://gamemaker.io/es/blog/easy-leaderboard-for-gamemaker  
+
+Se ha decidido basar el juego en Xena.  
+Este es el documento de diseño:  
+**enlace al documento**
